@@ -1076,20 +1076,20 @@ iframe{
         width: 100%;
     }
     .save .content .col-left .img-card .uno{
-/*         height: 400px; */
+        height: 400px;
         /* width: 48vh; */
         border-radius: 10px;
         margin-left: 5px;
     }
     .save .content .col-left .img-card .dos{
-/*         height: 535px; */
+        height: 535px;
         /* width: 40vh; */
         border-radius: 10px;
         margin-left: -40vh;
         margin-top: 65vh;
     }
     .save .content .col-left .img-card .tres{
-/*         height: 400; */
+        height: 400;
         object-fit: cover;
         border-radius: 10px;
         margin-top: 160vh; 
