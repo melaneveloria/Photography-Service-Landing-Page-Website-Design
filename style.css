@@ -1092,7 +1092,7 @@ iframe{
         height: 400;
         object-fit: cover;
         border-radius: 10px;
-        margin-top: 130vh; 
+        margin-top: 150vh; 
         /* width: 48vh; */
         margin-left: -41vh;
     }
@@ -1104,13 +1104,13 @@ iframe{
         padding-left: 10px;
     } 
     .save .content .col-left .mes {
-        margin-top: 220vh; 
+        margin-top: 205vh; 
         padding-right: 105px;
         margin-left: -41vh;
         border: none;
     }
     iframe {
-        width: 45vh;
+        width: 48vh;
         margin-left: -4px;
     }
     .wcu .content{
