@@ -1092,7 +1092,7 @@ iframe{
 /*         height: 400; */
         object-fit: cover;
         border-radius: 10px;
-        margin-top: 150vh; 
+        margin-top: 160vh; 
         /* width: 48vh; */
         margin-left: -41vh;
     }
@@ -1110,7 +1110,7 @@ iframe{
         border: none;
     }
     iframe {
-        width: 48vh;
+/*         width: 48vh; */
         margin-left: -4px;
     }
     .wcu .content{
